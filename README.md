@@ -25,3 +25,6 @@ Lab Client/Server File Applications
 
 ![1606846834603](https://user-images.githubusercontent.com/62991197/100780865-dddf1980-343c-11eb-9cd0-c0497a04e62f.jpg)
 
+Result
+
+![1606852514756](https://user-images.githubusercontent.com/62991197/100790051-dffba500-3449-11eb-94aa-6da057a0da17.jpg)
