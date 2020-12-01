@@ -20,3 +20,8 @@ Lab Java Server Applications
 Result
 
 ![1606845527132](https://user-images.githubusercontent.com/62991197/100778506-ad49b080-3439-11eb-8b6f-8dfcddd0fc6c.jpg)
+
+Lab Client/Server File Applications
+
+![1606846834603](https://user-images.githubusercontent.com/62991197/100780865-dddf1980-343c-11eb-9cd0-c0497a04e62f.jpg)
+
